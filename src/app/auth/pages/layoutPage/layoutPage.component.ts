@@ -7,4 +7,5 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   styles: ``
 
 })
+
 export class LayoutPageComponent { }
